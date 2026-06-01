@@ -1,0 +1,9 @@
+{
+  "name": "imposter-game",
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "framework": "nextjs",
+  "env": {
+    "NODE_ENV": "production"
+  }
+}
