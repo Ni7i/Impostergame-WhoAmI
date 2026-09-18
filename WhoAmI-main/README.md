@@ -20,7 +20,7 @@ Multiplayer Imposter-Spiel im Browser. Einer ist der Imposter, die anderen müss
 
 ## Tech Stack
 
-- **Frontend**: Next.js 14 + React + TailwindCSS
+- **Frontend**: Next.js 16 + React 19 + TailwindCSS
 - **Backend**: Next.js API Routes
 - **State**: Zustand (Client) + In-Memory (Server)
 - **Deployment**: Vercel
